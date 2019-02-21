@@ -1,0 +1,34 @@
+body {
+  background: #FED550;
+}
+
+.ice-cream {
+  width: 240px;
+  height: 350px;
+  background: #F982BF;
+}
+
+.glare {
+  width: 35px;
+  height: 70px;
+  background: #FF98CC;
+}
+
+.eye {
+  width: 18px;
+  height: 18px;
+  background: #FF2995;
+}
+
+.mouth {
+  width: 75px;
+  height: 25px;
+  background: #FF2995;
+}
+
+.stick {
+  width: 60px;
+  height: 72px;
+  background: #ECAA7D;
+  border-top: 12px solid #DB9E74;
+  }
