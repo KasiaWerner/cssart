@@ -70,3 +70,20 @@ body {
   justify-content: space-between;
   width: 145px;
 }
+
+.eye {
+  position: relative;
+}
+
+.eye::before {
+  display: block;
+  content: ‘’;
+  position: absolute;
+  top: 20%;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 5px;
+  height: 5px;
+  background: #fff;
+  border-radius: 100%;
+}
