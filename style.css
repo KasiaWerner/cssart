@@ -77,7 +77,7 @@ body {
 
 .eye::before {
   display: block;
-  content: ‘’;
+  content: "";
   position: absolute;
   top: 20%;
   left: 50%;
